@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Mukta&display=swap');
+
+body{
+    font-family: 'Indie Flower', cursive;
+}
+    textarea {
+        width: 70%;
+        height: 8rem;
+        display: block;
+        margin-left: 12rem;
+        padding: 2rem;
+        margin-top: 4rem;
+        border-radius: 0.5rem;
+    }
+
+
+    #btn-translate{
+        margin: 2rem 12rem;
+        padding: 1rem 3rem;
+        font-weight: bold;
+        font-size: large;
+        background-color: yellow;
+        border: none;
+    }
+
+    #output{
+        width: 70%;
+        height: 8rem;
+        border: 1px solid black;
+        margin: 1rem 12rem;
+        padding: 2rem;
+        border-radius: 0.5rem;
+    }
+
+    .color{
+        text-align: center;
+        background-color: yellow;
+        margin: -1rem;
+        padding: 2rem;
+    }
+    .text{
+        margin: 1rem 12rem;
+        font-size: xx-large;
+    }
+
+    #about-section{
+        font-weight: bold;
+        font-size: medium;
+        text-align: center;
+        margin: auto;
+        margin-top: 13rem;
+        margin-left: -1rem;
+        margin-right: -1rem;
+        background-color: yellow;
+        padding: 8rem;
+    }
+
+    .about{
+        margin: -6rem;
+        font-weight: bold;
+        font-size: xx-large;
+    }
+
+    .div-2{
+        font-size: medium;
+        }
