@@ -2,6 +2,9 @@
 
 body{
     font-family: 'Indie Flower', cursive;
+    display: flex;
+    flex-direction: column ;
+    flex-wrap: wrap;
 }
     textarea {
         width: 70%;
@@ -15,8 +18,11 @@ body{
 
 
     #btn-translate{
-        margin: 2rem 12rem;
-        padding: 1rem 3rem;
+        margin: 2rem 70rem;
+        margin-left: 12rem;
+
+        padding-top: 1rem;
+        padding-bottom: 1rem;
         font-weight: bold;
         font-size: large;
         background-color: yellow;
